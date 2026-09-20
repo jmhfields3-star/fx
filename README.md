@@ -11,7 +11,6 @@ Client only. No dependencies, no assets, nothing to set up.
 **Model** — download `Fx.rbxm` from [Releases](https://github.com/jmhfields3-star/fx/releases)
 and drag it into `ReplicatedStorage`.
 
-**Manual** — copy `Fx.luau` into a ModuleScript named `Fx` in `ReplicatedStorage`.
 
 **Wally**
 
